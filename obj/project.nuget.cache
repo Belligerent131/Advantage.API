@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z440Xe/V2OCil3GRBR+dyXuG1Mtx6Dod5jFDcC4IpOxTeZS9m74Os+B0TlwncqqnLwMPbDMq4SVJ4CGZ6d9c/w==",
+  "dgSpecHash": "zvXzcGfaPUFmwPLfBjtIHtH2aG45PIfxxMyytWf9dt+InL9zTCkcGrcJrEGDqeawCg3bEEpD9paeJ21wgHkQmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\Advantage.API.csproj",
+  "projectFilePath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\Advantage.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bento\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\bento\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\Advantage.API.csproj": {}
+    "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\Advantage.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\Advantage.API.csproj": {
+    "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\Advantage.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\Advantage.API.csproj",
+        "projectUniqueName": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\Advantage.API.csproj",
         "projectName": "Advantage.API",
-        "projectPath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\Advantage.API.csproj",
+        "projectPath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\Advantage.API.csproj",
         "packagesPath": "C:\\Users\\bento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\NgSight\\Advantage.API\\obj\\",
+        "outputPath": "C:\\Users\\bento\\Desktop\\web-dashboard-project\\Advantage.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
